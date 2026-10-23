@@ -1,0 +1,11 @@
+{
+  "packageName": "com.codemm.lanclip",
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "minSdk": 26,
+  "apkAssetName": "LanClip-5.apk",
+  "sha256": "17ba96407573caf0af43975a57269a7182c2092429daefd5d03b2ca53961b95f",
+  "releaseTag": "v1.2.2",
+  "apkSize": 2494032,
+  "notes": "使用静态公开清单检查更新，避免 GitHub REST 匿名配额影响"
+}
